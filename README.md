@@ -6,9 +6,6 @@
 <a href="https://www.linkedin.com/in/fredsonchaves-ti" target="_blank">
 	  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="Linkedin">
 </a>
-<a href="https://api.whatsapp.com/send?phone=5598981567462&text=Oi!" target="_blank">
-	  <img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white" alt="Github">
-</a>
 <a href="mailto:fredsonchaves07@gmail.com/">
 	  <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail">
 </a>
